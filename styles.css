@@ -58,7 +58,8 @@ body {
     text-align: center;
     font-style: italic;
     font-weight: normal;
-    color: var(--grey)}
+    color: var(--grey);
+    padding: 30px;}
 .me {
     color: var(--pink);
     letter-spacing: -6px;
